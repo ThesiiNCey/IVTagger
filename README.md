@@ -8,6 +8,7 @@ Supports adding tags to **text files**, **image metadata (EXIF, IPTC, XMP)**, or
 ---
 ## Screenshot
 <img src="assets/screenshot.png" alt="Screenshot of Tool" width="600">
+
 ---
 
 ## Features
