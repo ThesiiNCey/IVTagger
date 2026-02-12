@@ -98,7 +98,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python tagger.py
+python ivtagger.py
 ```
 
 1. Select a folder containing images or videos
