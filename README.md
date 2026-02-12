@@ -1,6 +1,6 @@
 # Image & Video Tagger
 
-![App Icon](assets/icon.png)
+<img src="assets/icon.png" alt="App Icon" width="250" height="250">
 
 A Python desktop application for automatically tagging images and videos using ONNX models.
 Supports adding tags to **text files**, **image metadata (EXIF, IPTC, XMP)**, or **video metadata**. Built with **PyQt6**, **ONNX Runtime**, and **ExifTool**.
