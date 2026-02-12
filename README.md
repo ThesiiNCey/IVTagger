@@ -46,8 +46,8 @@ All Python dependencies are listed in `requirements.txt`.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/image-video-tagger.git
-cd image-video-tagger
+git clone https://github.com/ThesiiNCey/IVTagger.git
+cd IVTagger
 ```
 
 ### 2. Create a virtual environment (recommended)
