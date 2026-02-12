@@ -1,0 +1,8 @@
+pillow>=11.1.0
+onnxruntime-gpu>=1.21.0
+PyQt6
+pyexiftool>=0.5.6
+numpy>=2.2.4
+pandas>=2.2.3
+huggingface-hub>=0.29.3
+piexif>=1.1.3
