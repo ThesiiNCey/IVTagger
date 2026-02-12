@@ -6,6 +6,9 @@ A Python desktop application for automatically tagging images and videos using O
 Supports adding tags to **text files**, **image metadata (EXIF, IPTC, XMP)**, or **video metadata**. Built with **PyQt6**, **ONNX Runtime**, and **ExifTool**.
 
 ---
+## Screenshot
+<img src="assets/screenshot.png" alt="Screenshot of Tool" width="600">
+---
 
 ## Features
 
