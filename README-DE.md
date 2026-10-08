@@ -11,6 +11,8 @@ AzerothCore muss bereits nativ auf dem Linux-Host kompiliert und eingerichtet se
 
 Die Vorlagen laden oder kompilieren AzerothCore nicht und richten auch Datenbank oder Clientdaten nicht ein. Im AMP-Konfigurationsfeld **AzerothCore Installationspfad** lässt sich `/opt/azerothcore` ändern.
 
+**Bei AMP-Instanzen in Docker/Podman:** Der Host-Ordner mit AzerothCore muss zusätzlich als Mount in den Container eingebunden sein. Binde den Host-Pfad (standardmäßig `/opt/azerothcore`) im Container unter demselben Pfad ein. Ohne diesen Mount kann AMP die Vorlage zwar laden, der Serverprozess findet die Binärdateien beim Start aber nicht. Der Mount muss für den AMP-Container lesbar sein; falls AzerothCore dort Logs oder Konfigurationen schreibt, muss er auch schreibbar sein.
+
 ## Installation der Vorlagen
 
 1. Lade dieses ZIP auf den AMP-Host.
