@@ -1,0 +1,9 @@
+[
+  {
+    "Protocol": "TCP",
+    "Port": 3724,
+    "Ref": "AuthPort",
+    "Name": "Auth / Logon Port",
+    "Description": "AzerothCore authserver TCP port (RealmServerPort)"
+  }
+]

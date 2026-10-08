@@ -1,0 +1,15 @@
+[
+  {
+    "DisplayName": "AzerothCore Installationspfad",
+    "Category": "AzerothCore",
+    "Subcategory": "Pfade",
+    "Description": "Absoluter Pfad zum AzerothCore-Quellverzeichnis. Der Ordner muss env/dist/bin/authserver und env/dist/bin/worldserver enthalten.",
+    "Keywords": "azerothcore,path,install,pfad",
+    "FieldName": "AzerothCorePath",
+    "ParamFieldName": "AzerothCorePath",
+    "InputType": "text",
+    "DefaultValue": "/opt/azerothcore",
+    "EnumValues": {},
+    "IncludeInCommandLine": false
+  }
+]
